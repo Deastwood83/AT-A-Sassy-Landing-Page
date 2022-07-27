@@ -1,0 +1,25 @@
+.hero {
+    background-color: beige;
+    color: brown;
+    height: 600px;
+}
+
+.hero nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero-content {
+    align-items: center;
+    display: flex;
+    height: 100%;
+    margin: 15px;
+}
+
+.hero-content img {
+    width: 50%;
+}
+.hero-content h1 {
+    font-size: 50px;
+}
